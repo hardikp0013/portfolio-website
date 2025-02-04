@@ -7,7 +7,7 @@ import MainRouter from '../MainRouter';
 //import { hot } from 'react-hot-loader'
 const App = () => {
  return (
- <Router>
+ <Router basename="/portfolio-website">
  
  <MainRouter />
 
