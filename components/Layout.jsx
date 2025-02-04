@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../public/styles/styles.css'; // Importing the CSS file
+import '../src/styles.css'; // Importing the CSS file
 import logo from '../src/assets/logo.jpeg'; // Ensure the path to your logo is correct
 
 export default function Layout() {
